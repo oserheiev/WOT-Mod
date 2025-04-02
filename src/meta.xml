@@ -1,0 +1,6 @@
+<root>
+    <id>oleksiiserheiev.hello_world</id>
+    <version>1.0.0</version>
+    <n>Hello World Mod with Equipment Display</n>
+    <description>A mod that displays "Hello World" and shows tank equipment above shells in battle</description>
+</root>
